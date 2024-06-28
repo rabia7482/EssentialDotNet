@@ -1,0 +1,15 @@
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.exe
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.deps.json
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.runtimeconfig.json
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.dll
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.pdb
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.AssemblyReference.cache
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.dll
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Interpolation.dll
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
+C:\Users\rabia\Downloads\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll

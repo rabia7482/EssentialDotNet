@@ -1,0 +1,15 @@
+C:\Users\rabia\Downloads\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.exe
+C:\Users\rabia\Downloads\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.deps.json
+C:\Users\rabia\Downloads\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+C:\Users\rabia\Downloads\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.dll
+C:\Users\rabia\Downloads\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.pdb
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.AssemblyReference.cache
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.dll
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+C:\Users\rabia\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll
